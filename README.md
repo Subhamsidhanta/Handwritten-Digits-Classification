@@ -8,10 +8,9 @@ Train a simple CNN on the MNIST handwritten digits dataset and run inference eit
 
 Some large files are not uploaded to this GitHub repository (model / data / demo video). Download them from Google Drive:
 
-- Model weights (`digit_cnn.pth`): <PASTE_GOOGLE_DRIVE_MODEL_LINK_HERE>
-- Demo video (optional): <PASTE_GOOGLE_DRIVE_VIDEO_LINK_HERE>
-
-After downloading the model, place `digit_cnn.pth` in the project root (same folder as `OnCamaraDetact.py`).
+- Model weights (`digit_cnn.pth`): [link](https://drive.google.com/file/d/1_5ocbHc0au0V4cWIeEZbsOZzBHZoKZN4/view?usp=sharing)
+- Demo video (optional): [link](https://drive.google.com/file/d/16m1JzbwQ5ySYeCuTxKr8SUlaLTi6M28r/view?usp=sharing)
+- After downloading the model, place `digit_cnn.pth` in the project root (same folder as `OnCamaraDetact.py`).
 
 ## Project Structure
 
@@ -92,4 +91,6 @@ Notes:
 
 ## License
 
-No license file is included in this repository.
+
+- Choose a license: https://choosealicense.com/
+- After you add a `LICENSE` file to this repo, it will be available at: `LICENSE`
